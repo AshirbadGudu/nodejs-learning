@@ -7,3 +7,4 @@
 - Read a file data with fs module
 - Creating and Deleting Folders fs module
 - Serving static html files with nodejs
+- Send JSON data using node js
