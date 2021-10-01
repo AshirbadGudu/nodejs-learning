@@ -4,3 +4,6 @@
 - Creating server with express
 - Creating files with fs module
 - Creating get & post routes with express
+- Read a file data with fs module
+- Creating and Deleting Folders fs module
+- Serving static html files with nodejs
